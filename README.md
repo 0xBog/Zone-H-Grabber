@@ -4,7 +4,7 @@
 Grab Domains From Zone-H With Mass Notifier list .
 
 
-## Support
+## Join VIP
 
 Telegram Channel (https://t.me/x0bogsecurity)
 
