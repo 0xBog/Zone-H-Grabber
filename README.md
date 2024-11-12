@@ -11,16 +11,16 @@ Telegram Channel (https://t.me/x0bogsecurity)
 
 ## Installation
 
-Install Wordpress Login Checker
+Install Zone-H Grabber
 
 ```bash
-  git clone https://github.com/0xBog/Wordpress-Login-Checker
+  git clone https://github.com/0xBog/Zone-H-Grabber
 
-  cd Wordpress-Login-Checker-main
+  cd Zone-H-Grabber-main
 
   pip install -r requirements.txt
 
-  python main.py
+  python zone-grabber.py
 ```
 
 ## Screenshots
