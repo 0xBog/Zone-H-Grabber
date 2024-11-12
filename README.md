@@ -1,12 +1,12 @@
 
 # Mass Zone-H Grabber
 
-Grab Domains From Zone-H With Mass Notifer list .
+Grab Domains From Zone-H With Mass Notifier list .
 
 
 ## Support
 
-Telegram Channel(https://t.me/x0bogsecurity)
+Telegram Channel (https://t.me/x0bogsecurity)
 
 
 ## Installation
